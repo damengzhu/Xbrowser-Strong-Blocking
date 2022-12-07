@@ -1,0 +1,3 @@
+==cdn.hls.shenglinyiyang.cn
+==cdn.staticfile.org
+==data.cache.m3u8.lscsfw.com
