@@ -1,1 +1,1 @@
-# Xbrowser-Strong-Blocking
+X浏览器强力拦截白名单域名，防误杀
