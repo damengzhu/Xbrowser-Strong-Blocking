@@ -28,3 +28,4 @@
 ==hm.baidu.com
 ==ali-ec.static.yximgs.com
 ==shouquan.laohutao.com
+==com/thumb/
