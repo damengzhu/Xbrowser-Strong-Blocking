@@ -68,6 +68,8 @@
 ==/mh160tuku/
 ==swiper-4.3.5.min.js
 ==/hls/
+==dplay
+==/artplayer.js
 ==/hls.min.js
 ==/artplayer.js
 ==/static/img/
