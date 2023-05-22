@@ -21,7 +21,6 @@
 ==union.maccms.la
 ==k8dm.comimages/
 ==static-cdn.anfuns.cn
-==static-cdn.anfuns.cn
 ==noitamina-my.sharepoint.com
 ==s3.pstatp.com
 ==ccp-bj29-video-preview.oss-enet.aliyuncs.com
@@ -64,6 +63,7 @@
 ==/layer.js
 ==/m3u8.php?url=
 ==/jquery.min.js
+==/js/hls.min.js
 ==mh160xiaotuku
 ==/mh160tuku/
 ==swiper-4.3.5.min.js
