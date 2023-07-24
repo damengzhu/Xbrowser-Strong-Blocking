@@ -11,6 +11,11 @@
 ==/mxtheme/
 ==lazyload
 ==img2.autoimg.cn
+==.ts
+==.m3u8
+==img.apiimg.com
+==cdn.04pic.com
+==www.clarity.ms
 ==jquery
 ==dalv.lmih.cn
 ==union.maccms.la
@@ -25,7 +30,7 @@
 ==fata.peizq.online
 ==sbdm.cc
 ==ssdm.cc
-==/clarity.js
+==api.apiimg.com
 ==/asset/img/
 ==.mp4?sign=
 ==/css/main.css
