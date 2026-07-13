@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: 强力拦截防误杀
+
+--upaiyun.com
+--92cj.com
+--akamaized.net
 ==cdn.hls.shenglinyiyang.cn
 ==cdn.staticfile.org
 ==data.cache.m3u8.
